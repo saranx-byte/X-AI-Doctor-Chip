@@ -1,0 +1,1 @@
+﻿var fs=require(chr(39)+chr(102)+chr(115)+chr(39));
